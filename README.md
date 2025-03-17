@@ -1,11 +1,11 @@
 # 💫 About Me:
-**Mechatronics Engineer Student at Mahindra University | Cybersecurity Enthusiast | IRoC-U Competitor | CTF Competitor | CAD Designer | Bug Bounty Hunter | Freelancer**
+**Mechatronics Student | Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Computer & Embedded Security Enthusiast**
 
-As a Mechatronics Engineering student at Mahindra University, I am deeply passionate about robotics and automation. My journey in this field has led me to become an active competitor in the IRoC-U, where I explore and push the boundaries of robotics and mechatronics. My skills in CAD design allow me to bring innovative concepts to life, creating complex mechanical parts and systems that integrate seamlessly with advanced electronics and control systems.
+As a passionate security enthusiast, I am actively exploring the world of cybersecurity and ethical hacking. My journey started with a deep curiosity about how systems work and how they can be secured against modern threats. I am continuously learning and gaining hands-on experience through Capture The Flag (CTF) competitions, bug bounty hunting, and practical security research.
 
-Alongside my mechatronics expertise, I have a strong dedication to cybersecurity. Actively participating in CTF competitions and bug bounty programs has sharpened my skills in ethical hacking and digital security. I thrive on the challenge of identifying vulnerabilities and securing systems, continuously learning and applying the latest techniques to stay ahead in the ever-evolving field of cybersecurity.
+With a strong foundation in Mechatronics and a growing expertise in computer security, I am expanding my knowledge in hardware security, OT/IoT security, and embedded systems security. I enjoy tackling security challenges, understanding vulnerabilities, and building solutions that enhance digital safety.
 
-Beyond my academic pursuits, I engage in freelance projects that allow me to merge creativity with technical know-how. Whether designing intricate mechanical systems or tackling cybersecurity challenges, I approach every project with a problem-solving mindset and a commitment to excellence. My freelance work reflects my ability to adapt, innovate, and deliver results that make a real impact.
+Currently, I am working on projects that bridge security with robotics, industrial control systems, and embedded technology. My goal is to contribute to the field of cybersecurity by refining my skills, sharing insights, and securing critical infrastructure from evolving threats
 
 
 ## 🌐 Socials:
