@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Mechatronics Student | Cybersecurity Enthusiast | Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Computer & Embedded Security Enthusiast**
+**Mechatronics Student | Aspiring Ethical Hackers, Security Researchers, Red Team Operators and Bug Bounty Enthusiast**
 
 As a passionate security enthusiast, I am actively exploring the world of cybersecurity and ethical hacking. My journey started with a deep curiosity about how systems work and how they can be secured against modern threats. I am continuously learning and gaining hands-on experience through Capture The Flag (CTF) competitions, bug bounty hunting, and practical security research.
 
