@@ -1,12 +1,13 @@
 # 💫 About Me:
 **Mechatronics Student | Aspiring Ethical Hackers, Security Researchers, Red Team Operators and Bug Bounty Enthusiast**
 
-As a passionate security enthusiast, I am actively exploring the world of cybersecurity and ethical hacking. My journey started with a deep curiosity about how systems work and how they can be secured against modern threats. I am continuously learning and gaining hands-on experience through Capture The Flag (CTF) competitions, bug bounty hunting, and practical security research.
+Security engineer focused on building and breaking real-world systems.
 
-With a strong foundation in Mechatronics and a growing expertise in computer security, I am expanding my knowledge in hardware security, OT/IoT security, and embedded systems security. I enjoy tackling security challenges, understanding vulnerabilities, and building solutions that enhance digital safety.
+My work centers on offensive security, web and API security, and security automation, with a strong emphasis on how attackers operate in production environments.
 
-Currently, I am working on projects that bridge security with robotics, industrial control systems, and embedded technology. My goal is to contribute to the field of cybersecurity by refining my skills, sharing insights, and securing critical infrastructure from evolving threats
+I design and build systems such as Active Directory audit automation, Secure Web Gateway bypass simulations, covert command-and-control infrastructure, and an enterprise-grade EDR platform.
 
+The focus is on understanding systems at a fundamental level, identifying weaknesses, and translating them into practical attack or defense implementations.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ajoy.ag/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajoyag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajoyag06) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AjoyAG6379) 
