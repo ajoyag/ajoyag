@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Mechatronics Student | Aspiring Ethical Hackers, Security Researchers, Red Team Operators and Bug Bounty Enthusiast**
+**SECURITY ENGINEERING | AUTOMATION | WEB & API SECURITY**
 
 Security engineer focused on building and breaking real-world systems.
 
